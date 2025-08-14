@@ -1,6 +1,16 @@
 export const candies = [
-  { id: 1, name: "Шоколад", price: 120 },
-  { id: 2, name: "Леденец", price: 50 },
-  { id: 3, name: "Карамель", price: 70 },
-  { id: 4, name: "KIT KAT", price: 99 },
+   {
+    id: 1,
+    name: "Сникерс",
+    price: 50,
+    image: "/images/candies/snickers.jpg",
+    type: "candy"
+  },
+  {
+    id: 2,
+    name: "KitKat",
+    price: 45,
+    image: "/images/candies/kitkat.jpg",
+    type: "candy"
+  }
 ];

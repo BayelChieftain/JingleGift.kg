@@ -3,7 +3,7 @@ export function formatWhatsAppMessage(cart) {
 
   let message = "Здравствуйте! Хочу заказать:\n";
   cart.forEach(item => {
-    message += `${item.name} x${item.qty} — ${item.price * item.qty} сом\n`;
+    message += `${item.name} x${item.qty} \n`;
   });
 
   const total = cart.reduce((sum, item) => sum + item.price * item.qty, 0);
