@@ -14,7 +14,7 @@ export default function Navbar() {
         <Link href="/" className="font-bold text-lg">Candy Shop</Link>
 
         <nav className="flex items-center gap-4">
-          <Link href="/" className="hover:underline">Каталог</Link>
+          <Link href="/order" className="hover:underline">Каталог</Link>
 
           <Link href="/cart" className="relative inline-flex items-center gap-2">
             <span>Корзина</span>
@@ -23,9 +23,6 @@ export default function Navbar() {
             </span>
           </Link>
 
-          <span className="hidden sm:block text-sm text-gray-600">
-            Итого: {total} сом
-          </span>
         </nav>
       </div>
     </header>

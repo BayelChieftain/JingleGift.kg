@@ -1,7 +1,7 @@
 import "./globals.css";
 import { CartProvider } from "@/context/CartContext";
 import { ToastProvider } from "@/context/ToastContext";
-import Navbar from "@/components/Navbar";
+import Header from "@/components/Header";
 
 export const metadata = {
   title: "Candy Shop",
@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
       <body>
         <ToastProvider>
           <CartProvider>
-            <Navbar />
+            <Header />
             <main className="max-w-5xl mx-auto p-4">{children}</main>
           </CartProvider>
         </ToastProvider>
