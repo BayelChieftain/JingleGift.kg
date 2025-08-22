@@ -1,4 +1,7 @@
+'use client';
 import PartnersSection from "@/components/PartnersSection";
+import ProductCard from "@/components/ProductCard";
+import { products } from "@/data/products";
 
 export default function Home() {
   const brands = [
@@ -25,29 +28,22 @@ export default function Home() {
         </button>
       </section>
       <PartnersSection />
-      {/* Категории / товары */}
-      <section className="px-4 py-10">
-        <h2 className="text-2xl font-semibold text-red-600 border-b-4 border-green-500 inline-block mb-6">
-          Наши товары
-        </h2>
-        <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
-          <div className="bg-white border rounded-xl p-4 shadow hover:shadow-lg transition">
-            <img src="/candy1.jpg" alt="Candy" className="rounded-lg" />
-            <h3 className="mt-3 font-semibold">Шоколадка</h3>
-            <p className="text-gray-600">150 c</p>
-          </div>
-          <div className="bg-white border rounded-xl p-4 shadow hover:shadow-lg transition">
-            <img src="/candy2.jpg" alt="Candy" className="rounded-lg" />
-            <h3 className="mt-3 font-semibold">Конфеты</h3>
-            <p className="text-gray-600">200 c</p>
-          </div>
-        </div>
-      </section>
+      {/* товары */}
+      <section className="px-4 py-10" id="catalog">
+  <h2 className="text-2xl font-semibold text-red-600 border-b-4 border-green-500 inline-block mb-6">
+    Наши корзины
+  </h2>
+  <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
+    {products.map((item) => (
+      <ProductCard key={item.id} product={item} />
+    ))}
+  </div>
+</section>
 
       {/* Бренды */}
       <section className="px-4 py-10 bg-red-50">
         <h2 className="text-2xl font-semibold text-center text-red-600 mb-6">
-          Наши бренды
+          Подарки от знаменитых брендов
         </h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6 place-items-center">
           {brands.map((src, i) => (
