@@ -1,5 +1,6 @@
 'use client';
 import Contacts from "@/components/Contacts";
+import Header from "@/components/Header";
 import PartnersSection from "@/components/PartnersSection";
 import ProductCard from "@/components/ProductCard";
 import PromoBox from "@/components/PromoBox";
@@ -16,6 +17,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-white text-gray-800">
+      <Header />
       {/* Hero */}
       <section className="flex flex-col items-center justify-center py-16 px-4 text-center">
         <img src="/images/main-logo.png" alt="Logo" className="w-66 h-42 mb-4" />
