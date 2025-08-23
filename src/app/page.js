@@ -1,4 +1,5 @@
 'use client';
+import Contacts from "@/components/Contacts";
 import PartnersSection from "@/components/PartnersSection";
 import ProductCard from "@/components/ProductCard";
 import { products } from "@/data/products";
@@ -39,7 +40,7 @@ export default function Home() {
     ))}
   </div>
 </section>
-
+      <Contacts />
       {/* Бренды */}
       <section className="px-4 py-10 bg-red-50">
         <h2 className="text-2xl font-semibold text-center text-red-600 mb-6">
@@ -51,7 +52,7 @@ export default function Home() {
           ))}
         </div>
       </section>
-
+          
       {/* Футер */}
       <footer className="bg-red-600 text-white py-6 mt-10">
         <div className="max-w-6xl mx-auto px-4 text-center">
