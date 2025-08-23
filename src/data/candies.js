@@ -12,5 +12,26 @@ export const candies = [
     price: 45,
     image: "/images/candies/kitkat.jpg",
     type: "candy"
+  },
+  {
+    id: 3,
+    name: "Skittles",
+    price: 45,
+    image: "/images/candies/skittles.png",
+    type: "candy"
+  },
+  {
+    id: 4,
+    name: "babyfox",
+    price: 45,
+    image: "/images/candies/babyfox.png",
+    type: "candy"
+  },
+  {
+    id: 5,
+    name: "Палочки",
+    price: 45,
+    image: "/images/candies/palochki.png",
+    type: "candy"
   }
 ];

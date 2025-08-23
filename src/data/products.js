@@ -97,6 +97,38 @@ export const products = [
       { name: "Красный мак", count: "1 шт.", image: "/images/candies/krasny-mak.webp" },
     ],
   },
+  {
+    title: "ЗИМУШКА",
+    id: 4,
+    image: "/images/baskets/zimushka.jpg", 
+    features: [
+      "Вес подарка 1000 гр.",
+      "Кол. конфет 23 шт.",
+      "Без карамели",
+      "Упаковка входит в стоимость",
+    ],
+    price: 650,
+    contents: [
+      { name: "Snikers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
+      { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
+      { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
+      { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
+      { name: "Mars mini", count: "2 шт.", image: "/images/candies/mars-mini.jpg" },
+      { name: "Мармелад Babyfox", count: "1 шт.", image: "/images/candies/mar-babyfox.png" },
+      { name: "Печенье Контик", count: "1 шт.", image: "/images/candies/super-kontik.png" },
+      { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
+      { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },   
+      { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/juice.jpg" },
+      { name: "Палочки", count: "1 шт.", image: "/images/candies/palochki.png"},
+      { name: "Alpen Gold", count: "1 шт.", image: "/images/candies/alpen-gold.png" },
+      { name: "Пончик today", count: "1 шт.", image: "/images/candies/today-donut.png" },
+      { name: "Вафли Яшкино", count: "1 шт.", image: "/images/candies/vafly-yash.jpg" },
+      { name: "Конфета Рулада", count: "1 шт.", image: "/images/candies/rulada.webp" },
+      { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },
+      { name: "Красный мак", count: "1 шт.", image: "/images/candies/krasny-mak.webp" },
+    ],
+  },
+  
   
 
 ]

@@ -1,10 +1,10 @@
 export const baskets = [
   {
     id: 1,
-    name: "Подарочная корзина №1",
-    price: 800,
-    image: "/images/baskets/basket1.jpg",
-    candiesCount: 7,
+    name: "Подарочная корзина МАЛЫШ",
+    price: 250,
+    image: "/images/baskets/malysh-basket.jpg",
+    candiesCount: 21,
     candiesList: [
       { name: "Сникерс", qty: 2 },
       { name: "KitKat", qty: 3 },
@@ -14,10 +14,10 @@ export const baskets = [
   },
   {
     id: 2,
-    name: "Корзина Premium",
-    price: 1200,
-    image: "/images/baskets/basket1.jpg",
-    candiesCount: 10,
+    name: "Корзина ПОЧТОВИК",
+    price: 350,
+    image: "/images/baskets/pochta-deda.jpg",
+    candiesCount: 22,
     candiesList: [
       { name: "Ferrero Rocher", qty: 5 },
       { name: "Raffaello", qty: 5 }
