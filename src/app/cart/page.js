@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 export default function CartPage() {
   const { cart, addItem, removeItem, clearCart } = useCart();
-  const phone = "996224020707";
+  const phone = "996555138989";
 
   const total = cart.reduce((sum, item) => sum + item.price * item.qty, 0);
 
