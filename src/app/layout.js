@@ -4,7 +4,7 @@ import { CartProvider } from "@/context/CartContext";
 import { ToastProvider } from "@/context/ToastContext";
 
 export const metadata = {
-  title: "Candy Shop",
+  title: "JingleGift KG",
   description: "Собери свою корзину сладостей",
 };
 
