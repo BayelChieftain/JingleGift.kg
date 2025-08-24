@@ -27,9 +27,12 @@ export default function Home() {
         <p className="mt-2 text-lg text-gray-600">
           Праздничные вкусы каждый день 🎄
         </p>
-        <button className="mt-6 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-xl shadow-lg transition">
-          Смотреть каталог
-        </button>
+        <a
+        href="#catalog"
+        className="mt-6 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-xl shadow-lg transition"
+      >
+        Смотреть каталог
+        </a>
       </section>
       <PartnersSection />
       {/* товары */}

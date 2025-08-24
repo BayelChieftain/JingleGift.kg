@@ -2,8 +2,11 @@
 @import "tailwindcss";
 
 /* твои кастомные глобальные стили — обычный CSS */
-html, body, :root { height: 100%; }
+html, body, :root { height: 100%;  }
 body { margin: 0; }
+html {
+  scroll-behavior: smooth;
+}
 
 
 @keyframes fade-in {

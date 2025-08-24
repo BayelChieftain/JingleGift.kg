@@ -18,14 +18,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section>
-        <h2 className="text-2xl font-bold mb-4">Готовые корзины</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {baskets.map(basket => (
-            <BasketCard key={basket.id} basket={basket} />
-          ))}
-        </div>
-      </section>
+     
     </div>
   );
 }
