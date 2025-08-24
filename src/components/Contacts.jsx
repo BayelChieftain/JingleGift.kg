@@ -50,8 +50,8 @@ export default function Contacts() {
           Новогодний колл-центр
         </p>
         <p className="mt-2">WhatsApp</p>
-        <p className="text-2xl font-extrabold mt-2">+996 (555) 300 555</p>
-        <p className="text-2xl font-extrabold">+996 (774) 766 766</p>
+        <p className="text-2xl font-extrabold mt-2">+996 (555) 138 989</p>
+        <p className="text-2xl font-extrabold">+0555 138 989</p>
       </motion.div>
 
       {/* Призыв */}
@@ -65,7 +65,7 @@ export default function Contacts() {
       </motion.p>
 
       <motion.a
-        href="https://www.podarki.kg"
+        href="https://jingle-gift-kg.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="block mt-3 text-2xl font-extrabold text-white hover:text-yellow-400 transition"
@@ -73,7 +73,7 @@ export default function Contacts() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.8, delay: 1 }}
       >
-        www.podarki.kg
+        jingle-gift.kg
       </motion.a>
     </section>
   );

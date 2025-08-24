@@ -13,13 +13,6 @@ export default function PartnersSection() {
     "/images/konti.png",
   ];
 
-  const partners = [
-    "/images/aua.png",
-    "/images/toyota.png",
-    "/images/podarki.png",
-    "/images/rosneft.png",
-    "/images/red-petroleum.png",
-  ];
 
   return (
     <section className="relative px-4 py-16 bg-gradient-to-r from-red-50 via-white to-green-50 overflow-hidden">
@@ -88,7 +81,7 @@ export default function PartnersSection() {
             Мы поможем выбрать лучшие подарки 🎅
           </p>
           <p className="text-gray-800 text-lg">
-            📞 +996 (555) 300 555, +996 (774) 766 766
+            📞 +996 555 138 989, +0(555)138989
           </p>
         </div>
       </div>

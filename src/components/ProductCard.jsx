@@ -46,7 +46,7 @@ export default function ProductCard({ product }) {
 
           {/* Кнопка заказа */}
           <motion.a
-            href={`https://wa.me/996555300555?text=Здравствуйте! Хочу заказать ${product.title}`}
+            href={`https://wa.me/996555138989?text=Здравствуйте! Хочу заказать ${product.title}`}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-4 bg-gradient-to-r from-red-500 to-green-600 text-white px-6 py-2 rounded-xl shadow hover:from-red-600 hover:to-green-700 transition font-semibold"

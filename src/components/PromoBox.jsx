@@ -39,7 +39,7 @@ export default function PromoBox() {
         </motion.a>
 
         <motion.a
-          href="https://wa.me/996555300555?text=Хочу%20Mystery%20Box%20🎁"
+          href="https://wa.me/996555138989?text=Хочу%20Mystery%20Box%20🎁"
           className="bg-white text-green-700 font-bold px-6 py-3 rounded-xl shadow-lg hover:bg-gray-100 transition"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
