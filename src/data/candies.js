@@ -1,9 +1,9 @@
 export const candies = [
    {
     id: 1,
-    name: "Сникерс",
+    name: "Сникерс minis",
     price: 50,
-    image: "/images/candies/snickers.jpg",
+    image: "/images/candies/sticker-snickers.webp",
     type: "candy"
   },
   {
@@ -80,7 +80,7 @@ export const candies = [
     id: 12,
     name: "Чио-рио",
     price: 50,
-    image: "/images/candies/chio-rio.png",
+    image: "/images/candies/sticker-chio.webp",
     type: "candy",
   },
   {
@@ -116,7 +116,7 @@ export const candies = [
 { id: 19, name: "Бат. Чио-рио", price: 50, image: "/images/candies/baton-chio.png", type: "candy" },
 { id: 20, name: "Печенье Rondo", price: 80, image: "/images/candies/rondo.jpeg", type: "candy" },
 { id: 21, name: "Трюфель", price: 20, image: "/images/candies/trufel.png", type: "candy" },
-{ id: 22, name: "Сок 250 мл", price: 60, image: "/images/candies/juice.jpg", type: "candy" },
+{ id: 22, name: "Сок 250 мл", price: 60, image: "/images/candies/sticker-250ml.webp", type: "candy" },
 { id: 23, name: "Twix", price: 120, image: "/images/candies/twix-bat.jpg", type: "candy" },
 { id: 24, name: "Bounty", price: 100, image: "/images/candies/bounty.jpg", type: "candy" },
 { id: 25, name: "M&M", price: 120, image: "/images/candies/manm.jpg", type: "candy" },
