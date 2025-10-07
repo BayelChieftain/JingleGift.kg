@@ -21,7 +21,7 @@ export const products = [
       { name: "Чио-рио", count: "1 шт.", image: "/images/candies/chio-rio.png" },
       { name: "Ярче", count: "1 шт.", image: "/images/candies/sticker-yarche.webp" },  
       { name: "Ирис Рахат Кис-мяу", count: "1 шт.", image: "/images/candies/sticker-iris.webp" },
-      { name: "Pure Love", count: "1 шт.", image: "/images/candies/purelove.webp" },
+      { name: "конфета «Миндаль Иванович» в молочной шоколадной глазури", count: "1 шт.", image: "/images/candies/sticker-mindal.webp" },
       { name: "Коровка", count: "2 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
       { name: "Конфета «Крокант»", count: "1 шт.", image: "/images/candies/sticker-kokant.webp" },
