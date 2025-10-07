@@ -11,7 +11,7 @@ export const products = [
     ],
     price: 250,
     contents: [
-      { name: "Ореховые", count: "1 шт.", image: "/images/candies/orehovye.jpg" },
+      { name: "Конфеты с цельным фундуком «O'Zera»", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
       { name: "Babyfox", count: "2 шт.", image: "/images/candies/babyfox.png" },
       { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
       { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },
