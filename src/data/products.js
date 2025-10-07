@@ -186,7 +186,9 @@ export const products = [
         { name: "Коровка печенье", count: "1 шт.", image: "/images/candies/sticker-korovkaB.webp" },
          { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
          { name: "Бонди мини", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
-         { name: "Киндер сюрприз", count: "2 шт.", image: "/images/candies/sticker-surp.webp" },
+         { name: "Киндер сюрприз", count: "1 шт.", image: "/images/candies/sticker-surp.webp" },
+          { name: "Марс конфета", count: "2 шт.", image: "/images/candies/sticker-mars.webp" },
+        { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
     ],
   },
   {
@@ -201,7 +203,7 @@ export const products = [
     ],
     price: 850,
     contents: [
-      { name: "Киндер сюрприз", count: "2 шт.", image: "/images/candies/sticker-surp.webp" },
+      { name: "Марс конфета", count: "2 шт.", image: "/images/candies/sticker-mars.webp" },
       { name: "Ореховые", count: "1 шт.", image: "/images/candies/orehovye.jpg" },
       { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" }, 
       { name: "Конфета Рулада", count: "1 шт.", image: "/images/candies/rulada.webp" },
