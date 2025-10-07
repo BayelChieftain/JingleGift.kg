@@ -43,12 +43,8 @@ export const products = [
     contents: [
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
       { name: "Бат. Чио-рио", count: "1 шт.", image: "/images/candies/baton-chio.png" },
-      { name: "Медунок", count: "1 шт.", image: "/images/candies/medunok.png" },
-      { name: "Ореховые", count: "1 шт.", image: "/images/candies/orehovye.jpg" },
       { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
-      { name: "Чик и Гег", count: "1 шт.", image: "/images/candies/chik-geg.jpg" },
-      { name: "Timi", count: "1 шт.", image: "/images/candies/timi.png" },
-      { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },
+      { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
       { name: "Коровка", count: "1 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
       { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
