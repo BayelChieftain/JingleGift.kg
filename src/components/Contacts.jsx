@@ -36,7 +36,7 @@ export default function Contacts() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.3 }}
       >
-        ул. Московская 189, <br /> пер. ул. Турусбекова
+       Фрунзе 583
       </motion.p>
 
       {/* Телефоны */}
@@ -51,7 +51,7 @@ export default function Contacts() {
         </p>
         <p className="mt-2">WhatsApp</p>
         <p className="text-2xl font-extrabold mt-2">+996 (555) 138 989</p>
-        <p className="text-2xl font-extrabold">+0555 138 989</p>
+        <p className="text-2xl font-extrabold">0555 138 989</p>
       </motion.div>
 
       {/* Призыв */}
