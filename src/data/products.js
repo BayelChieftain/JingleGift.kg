@@ -189,6 +189,10 @@ export const products = [
          { name: "Киндер сюрприз", count: "1 шт.", image: "/images/candies/sticker-surp.webp" },
           { name: "Марс конфета", count: "2 шт.", image: "/images/candies/sticker-mars.webp" },
         { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
+         { name: "Озера плиточный", count: "1 шт.", image: "/images/candies/sticker-extra.webp" },
+              { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" },  
+         { name: "Бабаевская", count: "2 шт.", image: "/images/candies/sticker-babskiM.webp" },
+        
     ],
   },
   {
