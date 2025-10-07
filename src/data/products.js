@@ -1,6 +1,6 @@
 export const products = [
     {
-    title: "МАЛЫШ",
+    title: "Мамонтенок",
     id: 1,
     image: "/images/baskets/malysh-basket.jpg", // картинка подарка
     features: [
@@ -21,7 +21,7 @@ export const products = [
       { name: "Чио-рио", count: "1 шт.", image: "/images/candies/chio-rio.png" },
       { name: "Чик и Гег", count: "1 шт.", image: "/images/candies/chik-geg.jpg" },
       { name: "Pure Love", count: "1 шт.", image: "/images/candies/purelove.webp" },
-      { name: "Коровка", count: "2 шт.", image: "/images/candies/korovka.webp" },
+      { name: "Коровка", count: "2 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
       { name: "Timi", count: "1 шт.", image: "/images/candies/timi.png" },
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
@@ -51,7 +51,7 @@ export const products = [
       { name: "Чик и Гег", count: "1 шт.", image: "/images/candies/chik-geg.jpg" },
       { name: "Timi", count: "1 шт.", image: "/images/candies/timi.png" },
       { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },
-      { name: "Коровка", count: "1 шт.", image: "/images/candies/korovka.webp" },
+      { name: "Коровка", count: "1 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
       { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
       { name: "Pure Love", count: "1 шт.", image: "/images/candies/purelove.webp" },
@@ -261,7 +261,7 @@ export const products = [
       { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
       { name: "Мишка", count: "1 шт.", image: "/images/candies/mishkakos.webp" },
       { name: "Mars mini", count: "1 шт.", image: "/images/candies/mars-mini.jpg" },
-      { name: "Коровка", count: "1 шт.", image: "/images/candies/korovka.webp" },
+      { name: "Коровка", count: "1 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Бат. Чио-рио", count: "1 шт.", image: "/images/candies/baton-chio.png" },
       { name: "Sprint", count: "1 шт.", image: "/images/candies/sprint.png" },
       { name: "Ярче", count: "1 шт.", image: "/images/candies/yarche.png" }, 
