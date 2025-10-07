@@ -23,7 +23,7 @@ export const products = [
       { name: "Ирис Рахат Кис-мяу", count: "1 шт.", image: "/images/candies/sticker-iris.webp" },
       { name: "конфета Миндаль Иванович в молочной шоколадной глазури", count: "1 шт.", image: "/images/candies/sticker-mindal.webp" },
       { name: "Коровка", count: "2 шт.", image: "/images/candies/sticker-korovka.webp‎" },
-      { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
+      { name: "Mentos Радуга Мини", count: "1 шт.", image: "/images/candies/sticker-mentos.webp" },
       { name: "Конфета Крокант", count: "1 шт.", image: "/images/candies/sticker-kokant.webp" },
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
       { name: "Печенье Rondo", count: "1 шт.", image: "/images/candies/rondo.jpeg" },
