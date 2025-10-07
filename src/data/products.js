@@ -145,8 +145,12 @@ export const products = [
 { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },
  { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/chupa-xxl.jpg" },
         { name: "Барни", count: "1 шт.", image: "/images/candies/sticker-bar.webp" },
+ { name: "Аленка бисквит", count: "1 шт.", image: "/images/candies/sticker-bis.webp" },
+{ name: "Бонди", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
+         { name: "Babyfox", count: "2 шт.", image: "/images/candies/babyfox.png" },
+        { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" },  
 
-        
+          { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
     ],
   },
   {
@@ -163,7 +167,7 @@ export const products = [
     contents: [
       
       { name: "Барни", count: "1 шт.", image: "/images/candies/sticker-bar.webp" },
-      { name: "Nuts", count: "1 шт.", image: "/images/candies/nuts.png" },
+      { name: "Аленка бисквит", count: "1 шт.", image: "/images/candies/sticker-bis.webp" },
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
       { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
