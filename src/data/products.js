@@ -12,9 +12,9 @@ export const products = [
     price: 250,
     contents: [
       { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
-      { name: "Babyfox", count: "2 шт.", image: "/images/candies/babyfox.png" },
+      { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
       { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
-      { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },
+      { name: "Snickers minis", count: "1 шт.", image: "/images/candies/sticker-snickers.webp" },
       { name: "Красный мак", count: "1 шт.", image: "/images/candies/krasny-mak.webp" },
       { name: "Медунок", count: "1 шт.", image: "/images/candies/medunok.png" },
       { name: "Twix mini", count: "1 шт.", image: "/images/candies/twix.jpg" },
