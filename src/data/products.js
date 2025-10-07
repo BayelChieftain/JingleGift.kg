@@ -174,26 +174,8 @@ export const products = [
     price: 800,
     contents: [
       
-      { name: "Натс", count: "1 шт.", image: "/images/candies/sticker-nuts.webp" },
-      { name: "Аленка бисквит", count: "1 шт.", image: "/images/candies/sticker-bis.webp" },
-      { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
-      { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
-      { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
-      { name: "Кара кум", count: "1 шт.", image: "/images/candies/sticker-kara.webp" },
-      { name: "Fruit-tella", count: "1 шт.", image: "/images/candies/fruittela.png" },     
-      { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },  
-      { name: "Киндер ломтик", count: "2 шт.", image: "/images/candies/sticker-lom.webp" },
-      { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },  
-      { name: "Печенье Контик", count: "1 шт.", image: "/images/candies/super-kontik.png" },
-      { name: "Сок Любимый", count: "1 шт.", image: "/images/candies/sok-luv.png" },
-      { name: "Мал. БОНДИ", count: "1 шт.", image: "/images/candies/lil-bondi.webp"}, 
-      { name: "Kinder сюрприз", count: "1 шт.", image: "/images/candies/kinder-surp.jpg" },
-      { name: "Alpen Gold", count: "1 шт.", image: "/images/candies/alpen-gold.png" },
-      { name: "Mars mini", count: "1 шт.", image: "/images/candies/mars-mini.jpg" },
-      { name: "Milkyway mini", count: "2 шт.", image: "/images/candies/milky-way.jpg" },
-      { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
-      { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" },   
-      { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },   
+      { name: "Киндер Maxi", count: "1 шт.", image: "/images/candies/sticker-asss.webp" },
+     
     ],
   },
   {
