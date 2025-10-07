@@ -30,7 +30,7 @@ export const products = [
     ],
   },
   {
-    title: "ПОЧТОВИК",
+    title: "Почта",
     id: 2,
     image: "/images/baskets/pochta-deda.jpg", 
     features: [
