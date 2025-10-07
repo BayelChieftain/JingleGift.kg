@@ -51,7 +51,7 @@ export const products = [
       { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
       { name: "Чупа чупс мини", count: "2 шт.", image: "/images/candies/sticker-cM.webp" },
       { name: "Chocair", count: "1 шт.", image: "/images/candies/chocair.png" },
-      { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
+      { name: "Яшкино вафли", count: "1 шт.", image: "/images/candies/sticker-vaf.webp" },
       { name: "Чупс средний", count: "1 шт.", image: "/images/candies/Chupa-Chups.png" },
     
     ],
