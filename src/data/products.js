@@ -20,7 +20,7 @@ export const products = [
       { name: "Twix mini", count: "1 шт.", image: "/images/candies/twix.jpg" },
       { name: "Чио-рио", count: "1 шт.", image: "/images/candies/chio-rio.png" },
       { name: "Ярче", count: "1 шт.", image: "/images/candies/sticker-yarche.webp" },  
-      { name: "Чик и Гег", count: "1 шт.", image: "/images/candies/chik-geg.jpg" },
+      { name: "Ирис Рахат Кис-мяу", count: "1 шт.", image: "/images/candies/sticker-iris.webp" },
       { name: "Pure Love", count: "1 шт.", image: "/images/candies/purelove.webp" },
       { name: "Коровка", count: "2 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
