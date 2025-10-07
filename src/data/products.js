@@ -47,16 +47,13 @@ export const products = [
       { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
       { name: "Коровка", count: "1 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Бонди мини", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
-      { name: "Pure Love", count: "1 шт.", image: "/images/candies/purelove.webp" },
-      { name: "Трюфель", count: "1 шт.", image: "/images/candies/trufel.png" },
+      { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },
       { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
-      { name: "Палочки", count: "1 шт.", image: "/images/candies/palochki.png"},
-      { name: "Мал. БОНДИ", count: "1 шт.", image: "/images/candies/lil-bondi.webp"}, 
       { name: "Печенье Rondo", count: "1 шт.", image: "/images/candies/rondo.jpeg" },
       { name: "Chocair", count: "1 шт.", image: "/images/candies/chocair.png" },
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
       { name: "Чупс средний", count: "1 шт.", image: "/images/candies/Chupa-Chups.png" },
-      { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },      
+    
     ],
   },
   {
