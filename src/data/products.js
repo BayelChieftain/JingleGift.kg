@@ -52,7 +52,8 @@ export const products = [
       { name: "Чупа чупс мини", count: "2 шт.", image: "/images/candies/sticker-cM.webp" },
       { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" }, 
       { name: "Яшкино вафли", count: "1 шт.", image: "/images/candies/sticker-vaf.webp" },
-
+        { name: "Фрутелла мини", count: "1 шт.", image: "/images/candies/sticker-frt.webp" },
+        
     
     ],
   },
@@ -75,7 +76,7 @@ export const products = [
       { name: "Mars mini", count: "2 шт.", image: "/images/candies/mars-mini.jpg" },
       { name: "Мармелад Babyfox", count: "1 шт.", image: "/images/candies/mar-babyfox.png" },
       { name: "Печенье Контик", count: "1 шт.", image: "/images/candies/super-kontik.png" },
-      { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
+      { name: "Фрутелла мини", count: "1 шт.", image: "/images/candies/sticker-frt.webp" },
       { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },   
       { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
       { name: "Палочки", count: "1 шт.", image: "/images/candies/palochki.png"},
