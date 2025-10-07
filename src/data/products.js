@@ -107,8 +107,22 @@ export const products = [
     contents: [
          { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
     { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
-      
-      
+        { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
+       { name: "М&Мs", count: "1 шт.", image: "/images/candies/sticker-mm.webp" },  
+      { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
+        { name: "Фрутелла мини", count: "1 шт.", image: "/images/candies/sticker-frt.webp" },
+        { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
+        { name: "Чупа чупс мини", count: "2 шт.", image: "/images/candies/sticker-cM.webp" },
+        { name: "Коровка", count: "1 шт.", image: "/images/candies/korovka.webp" },
+        { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
+         { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" },  
+        { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
+         { name: "Snickers minis", count: "1 шт.", image: "/images/candies/sticker-snickers.webp" },
+        { name: "ДЖУМКА", count: "1 шт.", image: "/images/candies/jumka.webp" },
+        { name: "Зебра", count: "1 шт.", image: "/images/candies/sticker-zebra.webp" },
+        { name: "конфета Миндаль Иванович в молочной шоколадной глазури", count: "1 шт.", image: "/images/candies/sticker-mindal.webp" },
+        { name: " Чио-рио", count: "1 шт.", image: "/images/candies/baton-chio.png" },
+        
     ],
   },
   {
@@ -126,7 +140,7 @@ export const products = [
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
       { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
       { name: "Mars mini", count: "2 шт.", image: "/images/candies/mars-mini.jpg" },
-      { name: "Nuts mini", count: "2 шт.", image: "/images/candies/nuts.png" },      
+      { name: "М&Мs", count: "2 шт.", image: "/images/candies/sticker-mm.webp" },      
       { name: "Milkyway mini", count: "2 шт.", image: "/images/candies/milky-way.jpg" },
       { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
       { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" }, 
