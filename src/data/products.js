@@ -284,7 +284,13 @@ export const products = [
     ],
     price: 950,
     contents: [
-      { name: "TIC-TAC", count: "1 шт.", image: "/images/candies/sticker-tic.webp" },
+      { name: "Красная Шапочка", count: "1 шт.", image: "/images/candies/sticker-shap.webp" },
+     { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
+        { name: "Красный Мак", count: "1 шт.", image: "/images/candies/krasny-mak.webp" },
+         { name: "Конфеты шоколадные Аленка", count: "1 шт.", image: "/images/candies/alenka-mini.jpg" },
+
+        
+        
       { name: "Twix", count: "1 шт.", image: "/images/candies/twix-bat.jpg" },
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg"},
       { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
