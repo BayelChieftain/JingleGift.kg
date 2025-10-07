@@ -56,11 +56,8 @@ export const products = [
         { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
     { name: "ДЖУМКА", count: "1 шт.", image: "/images/candies/jumka.webp" },
         { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
-
-
         { name: "Зебра", count: "1 шт.", image: "/images/candies/sticker-zebra.webp" },
         { name: "Умка", count: "1 шт.", image: "/images/candies/sticker-um.webp" },
-        { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
 
         
     ],
