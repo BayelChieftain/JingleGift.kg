@@ -175,7 +175,17 @@ export const products = [
     contents: [
       
       { name: "Киндер Maxi", count: "1 шт.", image: "/images/candies/sticker-asss.webp" },
-     
+         { name: "Milkyway", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
+        { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
+       { name: "Skittles", count: "1 шт.", image: "/images/candies/sticker-skitl.webp" },
+         { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
+         { name: "Фрутелла мини", count: "1 шт.", image: "/images/candies/sticker-frt.webp" },
+         { name: "Аленка бисквит", count: "1 шт.", image: "/images/candies/sticker-bis.webp" },
+         { name: "Babyfox", count: "2 шт.", image: "/images/candies/babyfox.png" },
+         { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },
+        { name: "Коровка печенье", count: "1 шт.", image: "/images/candies/sticker-korovkaB.webp" },
+         { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
+         { name: "Бонди мини", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
     ],
   },
   {
