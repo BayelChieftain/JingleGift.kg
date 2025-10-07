@@ -87,7 +87,7 @@ export const products = [
          { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
         { name: "Skittles", count: "1 шт.", image: "/images/candies/sticker-skitl.webp" },
 
-      { name: "Mars mini", count: "2 шт.", image: "/images/candies/mars-mini.jpg" },
+      { name: "Аленка плиточный", count: "2 шт.", image: "/images/candies/sticker-alenkaB.webp" },
       { name: "Мармелад Babyfox", count: "1 шт.", image: "/images/candies/mar-babyfox.png" },
 
      
