@@ -41,7 +41,7 @@ export const products = [
     ],
     price: 350,
     contents: [
-      { name: "Twix mini", count: "1 шт.", image: "/images/candies/twix.jpg" },
+      { name: "Milkyway", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
       { name: "Чио-рио", count: "1 шт.", image: "/images/candies/chio-rio.png" },
       { name: "Медунок", count: "1 шт.", image: "/images/candies/medunok.png" },
       { name: "Ореховые", count: "1 шт.", image: "/images/candies/orehovye.jpg" },
