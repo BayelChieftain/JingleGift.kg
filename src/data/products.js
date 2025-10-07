@@ -24,7 +24,7 @@ export const products = [
       { name: "Pure Love", count: "1 шт.", image: "/images/candies/purelove.webp" },
       { name: "Коровка", count: "2 шт.", image: "/images/candies/sticker-korovka.webp‎" },
       { name: "Княжеские", count: "1 шт.", image: "/images/candies/knyaz.jpg" },
-      { name: "Timi", count: "1 шт.", image: "/images/candies/timi.png" },
+      { name: "Конфета «Крокант»", count: "1 шт.", image: "/images/candies/sticker-kokant.webp" },
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
       { name: "Бат. Чио-рио", count: "1 шт.", image: "/images/candies/baton-chio.png" },
       { name: "Печенье Rondo", count: "1 шт.", image: "/images/candies/rondo.jpeg" },
