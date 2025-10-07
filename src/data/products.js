@@ -53,7 +53,7 @@ export const products = [
       { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" }, 
       { name: "Яшкино вафли", count: "1 шт.", image: "/images/candies/sticker-vaf.webp" },
         { name: "Фрутелла мини", count: "1 шт.", image: "/images/candies/sticker-frt.webp" },
-        
+        { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
     
     ],
   },
@@ -85,7 +85,7 @@ export const products = [
       { name: "Вафли Яшкино", count: "1 шт.", image: "/images/candies/vafly-yash.jpg" },
       { name: "Конфета Рулада", count: "1 шт.", image: "/images/candies/rulada.webp" },
       { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },
-      { name: "Мишка", count: "1 шт.", image: "/images/candies/mishkakos.webp" },
+      { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
     ],
   },
   {
