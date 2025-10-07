@@ -5,20 +5,19 @@ export const products = [
     image: "/images/baskets/malysh-basket.jpg", // картинка подарка
     features: [
       "Вес подарка 630 гр.",
-      "Кол. конфет 21 шт.",
+      "Кол. конфет 15 шт.",
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
     price: 250,
     contents: [
       { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
+              { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" },  
       { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
       { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
       { name: "Snickers minis", count: "1 шт.", image: "/images/candies/sticker-snickers.webp" },
       { name: "Красный мак", count: "1 шт.", image: "/images/candies/krasny-mak.webp" },
-      { name: "Медунок", count: "1 шт.", image: "/images/candies/medunok.png" },
-      { name: "Twix mini", count: "1 шт.", image: "/images/candies/twix.jpg" },
-      { name: "Чио-рио", count: "1 шт.", image: "/images/candies/chio-rio.png" },
+      
       { name: "Ярче", count: "1 шт.", image: "/images/candies/sticker-yarche.webp" },  
       { name: "Ирис Рахат Кис-мяу", count: "1 шт.", image: "/images/candies/sticker-iris.webp" },
       { name: "конфета Миндаль Иванович в молочной шоколадной глазури", count: "1 шт.", image: "/images/candies/sticker-mindal.webp" },
@@ -26,7 +25,6 @@ export const products = [
       { name: "Mentos Радуга Мини", count: "1 шт.", image: "/images/candies/sticker-mentos.webp" },
       { name: "Конфета Крокант", count: "1 шт.", image: "/images/candies/sticker-kokant.webp" },
       { name: "Chupa Chups Straips", count: "1 шт.", image: "/images/candies/sticker-chiper.webp" },
-      { name: "Печенье Rondo", count: "1 шт.", image: "/images/candies/rondo.jpeg" },
       { name: "Конфеты Чио Рио", count: "1 шт.", image: "/images/candies/sticker-chio.webp" },
       { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
     ],
