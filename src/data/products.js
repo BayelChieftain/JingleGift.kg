@@ -49,7 +49,7 @@ export const products = [
       { name: "Бонди мини", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
       { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },
       { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
-      { name: "Печенье Rondo", count: "1 шт.", image: "/images/candies/rondo.jpeg" },
+      { name: "Чупа чупс мини", count: "2 шт.", image: "/images/candies/sticker-cM.webp" },
       { name: "Chocair", count: "1 шт.", image: "/images/candies/chocair.png" },
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },
       { name: "Чупс средний", count: "1 шт.", image: "/images/candies/Chupa-Chups.png" },
