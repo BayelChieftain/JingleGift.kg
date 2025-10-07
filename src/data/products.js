@@ -75,6 +75,7 @@ export const products = [
     price: 550,
     contents: [
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
+    { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
       { name: "Snickers minis", count: "2 шт.", image: "/images/candies/sticker-snickers.webp" },
         { name: "Конфеты с цельным фундуком OZera", count: "2 шт.", image: "/images/candies/sticker-ozero.webp" },
@@ -86,7 +87,7 @@ export const products = [
          { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
         
         { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
-      { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
+
       { name: "Mars mini", count: "2 шт.", image: "/images/candies/mars-mini.jpg" },
       { name: "Мармелад Babyfox", count: "1 шт.", image: "/images/candies/mar-babyfox.png" },
 
