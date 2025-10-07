@@ -122,6 +122,7 @@ export const products = [
         { name: "Зебра", count: "1 шт.", image: "/images/candies/sticker-zebra.webp" },
         { name: "конфета Миндаль Иванович в молочной шоколадной глазури", count: "1 шт.", image: "/images/candies/sticker-mindal.webp" },
         { name: " Чио-рио", count: "1 шт.", image: "/images/candies/baton-chio.png" },
+         { name: "Коровка печенье", count: "1 шт.", image: "/images/candies/sticker-korovkaB.webp" },
         
     ],
   },
@@ -147,7 +148,7 @@ export const products = [
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },      
       { name: "Киндер ломтик", count: "1 шт.", image: "/images/candies/kinder-lom.png" },      
       { name: "Oreo", count: "1 шт.", image: "/images/candies/oreo.png" },
-      { name: "Alpen Gold", count: "1 шт.", image: "/images/candies/alpen-gold.png" },
+      { name: "Коровка печенье", count: "1 шт.", image: "/images/candies/sticker-korovkaB.webp" },
       { name: "Мармелад Babyfox", count: "1 шт.", image: "/images/candies/mar-babyfox.png" },
       { name: "Чупс XXL", count: "1 шт.", image: "/images/candies/chupa-xxl.jpg" },
       { name: "Пончик today", count: "1 шт.", image: "/images/candies/today-donut.png" },
