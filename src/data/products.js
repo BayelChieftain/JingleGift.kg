@@ -144,6 +144,8 @@ export const products = [
 { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
 { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },
  { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/chupa-xxl.jpg" },
+        { name: "Барни", count: "1 шт.", image: "/images/candies/sticker-bar.webp" },
+
         
     ],
   },
@@ -160,7 +162,7 @@ export const products = [
     price: 800,
     contents: [
       
-      { name: "Mars", count: "1 шт.", image: "/images/candies/mars-bat.png" },
+      { name: "Барни", count: "1 шт.", image: "/images/candies/sticker-bar.webp" },
       { name: "Nuts", count: "1 шт.", image: "/images/candies/nuts.png" },
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
