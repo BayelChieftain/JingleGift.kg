@@ -73,7 +73,7 @@ export default function Contacts() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.8, delay: 1 }}
       >
-        jingle-gift.kg
+        jingle-gift-kg.vercel.app
       </motion.a>
     </section>
   );
