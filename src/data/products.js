@@ -151,7 +151,7 @@ export const products = [
         { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" },  
         { name: "Кара кум", count: "1 шт.", image: "/images/candies/sticker-kara.webp" },
           { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
-
+{ name: "Киндер ломтик", count: "2 шт.", image: "/images/candies/sticker-lom.webp" },
 
 
         
@@ -178,7 +178,7 @@ export const products = [
       { name: "Кара кум", count: "1 шт.", image: "/images/candies/sticker-kara.webp" },
       { name: "Fruit-tella", count: "1 шт.", image: "/images/candies/fruittela.png" },     
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },  
-      { name: "Babyfox", count: "2 шт.", image: "/images/candies/babyfox.png" },
+      { name: "Киндер ломтик", count: "2 шт.", image: "/images/candies/sticker-lom.webp" },
       { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },  
       { name: "Печенье Контик", count: "1 шт.", image: "/images/candies/super-kontik.png" },
       { name: "Сок Любимый", count: "1 шт.", image: "/images/candies/sok-luv.png" },
