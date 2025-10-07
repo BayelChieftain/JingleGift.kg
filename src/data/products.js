@@ -155,6 +155,8 @@ export const products = [
 { name: "Oreo ", count: "1 шт.", image: "/images/candies/oreo.png" },
  { name: "Сладкая вата", count: "1 шт.", image: "/images/candies/bub-gum.webp" },
         { name: "Milkyway", count: "2 шт.", image: "/images/candies/sticker-milky.webp" },
+
+        { name: "Озера плиточный", count: "1 шт.", image: "/images/candies/sticker-extra.webp" },
     ],
   },
   {
@@ -170,7 +172,7 @@ export const products = [
     price: 800,
     contents: [
       
-      { name: "Барни", count: "1 шт.", image: "/images/candies/sticker-bar.webp" },
+      { name: "Озера плиточный", count: "1 шт.", image: "/images/candies/sticker-extra.webp" },
       { name: "Аленка бисквит", count: "1 шт.", image: "/images/candies/sticker-bis.webp" },
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
