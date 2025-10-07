@@ -45,7 +45,7 @@ export const candies = [
     id: 7,
     name: "Бабаевская",
     price: 50,
-    image: "/images/candies/babaev.png",
+    image: "/images/candies/sticker-babskiM.webp",
     type: "candy",
   },
   {
