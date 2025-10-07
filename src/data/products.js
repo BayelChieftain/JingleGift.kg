@@ -287,11 +287,14 @@ export const products = [
       { name: "Красная Шапочка", count: "1 шт.", image: "/images/candies/sticker-shap.webp" },
      { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
         { name: "Красный Мак", count: "1 шт.", image: "/images/candies/krasny-mak.webp" },
-         { name: "Конфеты шоколадные Аленка", count: "1 шт.", image: "/images/candies/alenka-mini.jpg" },
-
+         { name: "Конфеты шоколадные Аленка", count: "1 шт.", image: "/images/candies/alenka-mini.jpg" },    
+      { name: "Конфета Белочка", count: "1 шт.", image: "/images/candies/sticker-bel.webp" },
+      { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
+         { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
+         { name: "Mars", count: "1 шт.", image: "/images/candies/mars-bat.png" },
         
         
-      { name: "Twix", count: "1 шт.", image: "/images/candies/twix-bat.jpg" },
+        
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg"},
       { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
