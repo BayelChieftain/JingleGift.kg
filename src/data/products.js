@@ -149,8 +149,12 @@ export const products = [
 { name: "Бонди", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
          { name: "Babyfox", count: "2 шт.", image: "/images/candies/babyfox.png" },
         { name: "Алёнка", count: "1 шт.", image: "/images/candies/sticker-alenka.webp" },  
-
+        { name: "Кара кум", count: "1 шт.", image: "/images/candies/sticker-kara.webp" },
           { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
+
+
+
+        
     ],
   },
   {
@@ -171,7 +175,7 @@ export const products = [
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
       { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
-      { name: "KitKat DUO", count: "1 шт.", image: "/images/candies/kitkat.jpg" },
+      { name: "Кара кум", count: "1 шт.", image: "/images/candies/sticker-kara.webp" },
       { name: "Fruit-tella", count: "1 шт.", image: "/images/candies/fruittela.png" },     
       { name: "Рулет", count: "1 шт.", image: "/images/candies/rulet.png" },  
       { name: "Babyfox", count: "2 шт.", image: "/images/candies/babyfox.png" },
