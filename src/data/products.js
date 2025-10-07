@@ -268,7 +268,7 @@ export const products = [
          { name: "Озера плиточный", count: "1 шт.", image: "/images/candies/sticker-extra.webp" },
         { name: "Сок 200 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
          { name: "Oreo", count: "1 шт.", image: "/images/candies/oreo.png" },
-    
+        { name: "TIC-TAC", count: "1 шт.", image: "/images/candies/sticker-tic.webp" },
      
     ],
   },
@@ -284,7 +284,7 @@ export const products = [
     ],
     price: 950,
     contents: [
-      { name: "Mars", count: "1 шт.", image: "/images/candies/mars-bat.png" },
+      { name: "TIC-TAC", count: "1 шт.", image: "/images/candies/sticker-tic.webp" },
       { name: "Twix", count: "1 шт.", image: "/images/candies/twix-bat.jpg" },
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg"},
       { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
