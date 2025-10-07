@@ -42,7 +42,7 @@ export const products = [
     price: 350,
     contents: [
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
-      { name: "Чио-рио", count: "1 шт.", image: "/images/candies/chio-rio.png" },
+      { name: "Бат. Чио-рио", count: "1 шт.", image: "/images/candies/baton-chio.png" },
       { name: "Медунок", count: "1 шт.", image: "/images/candies/medunok.png" },
       { name: "Ореховые", count: "1 шт.", image: "/images/candies/orehovye.jpg" },
       { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
