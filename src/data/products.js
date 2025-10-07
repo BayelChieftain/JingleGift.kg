@@ -162,7 +162,7 @@ export const products = [
     ],
   },
   {
-    title: "Фантазия",
+    title: "Елка",
     id: 6,
     image: "/images/baskets/fantasia.jpg", 
     features: [
