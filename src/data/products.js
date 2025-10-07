@@ -54,7 +54,9 @@ export const products = [
       { name: "Яшкино вафли", count: "1 шт.", image: "/images/candies/sticker-vaf.webp" },
         { name: "Фрутелла мини", count: "1 шт.", image: "/images/candies/sticker-frt.webp" },
         { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
-    
+    { name: "ДЖУМКА", count: "1 шт.", image: "/images/candies/jumka.webp" },
+
+        
     ],
   },
   {
