@@ -63,7 +63,7 @@ export const products = [
     ],
   },
   {
-    title: "ДРАКОША",
+    title: "Дед Мороз",
     id: 3,
     image: "/images/baskets/drakosha.jpg", 
     features: [
@@ -75,22 +75,22 @@ export const products = [
     price: 550,
     contents: [
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
-      { name: "Milkyway", count: "1 шт.", image: "/images/candies/milky-way.jpg" },
-      { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
+      { name: "Milkyway", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
+      { name: "Snickers minis", count: "2 шт.", image: "/images/candies/sticker-snickers.webp" },
+        { name: "Конфеты с цельным фундуком OZera", count: "2 шт.", image: "/images/candies/sticker-ozero.webp" },
+        { name: "Бонди мини", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
+        { name: "Яшкино вафли", count: "1 шт.", image: "/images/candies/sticker-vaf.webp" },
+        { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },
+        { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
+        { name: "Чупа чупс мини", count: "2 шт.", image: "/images/candies/sticker-cM.webp" },
+         { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
+        
+        { name: "Skittles", count: "1 шт.", image: "/images/candies/skittles.png" },
       { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
       { name: "Mars mini", count: "2 шт.", image: "/images/candies/mars-mini.jpg" },
       { name: "Мармелад Babyfox", count: "1 шт.", image: "/images/candies/mar-babyfox.png" },
-      { name: "Печенье Контик", count: "1 шт.", image: "/images/candies/super-kontik.png" },
-      { name: "Фрутелла мини", count: "1 шт.", image: "/images/candies/sticker-frt.webp" },
-      { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },   
-      { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
-      { name: "Палочки", count: "1 шт.", image: "/images/candies/palochki.png"},
-      { name: "Alpen Gold", count: "1 шт.", image: "/images/candies/alpen-gold.png" },
-      { name: "Пончик today", count: "1 шт.", image: "/images/candies/today-donut.png" },
-      { name: "Вафли Яшкино", count: "1 шт.", image: "/images/candies/vafly-yash.jpg" },
-      { name: "Конфета Рулада", count: "1 шт.", image: "/images/candies/rulada.webp" },
-      { name: "Марсианка", count: "2 шт.", image: "/images/candies/mars.jpg" },
-      { name: "Babol жвачка", count: "1 шт.", image: "/images/candies/sticker-babol.webp" },
+
+     
     ],
   },
   {
