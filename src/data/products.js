@@ -153,8 +153,8 @@ export const products = [
           { name: "Сок 250 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
 { name: "Киндер ломтик", count: "1 шт.", image: "/images/candies/sticker-lom.webp" },
 { name: "Oreo ", count: "1 шт.", image: "/images/candies/oreo.png" },
-
-        
+ { name: "Сладкая вата", count: "1 шт.", image: "/images/candies/bub-gum.webp" },
+        { name: "Milkyway", count: "2 шт.", image: "/images/candies/sticker-milky.webp" },
     ],
   },
   {
