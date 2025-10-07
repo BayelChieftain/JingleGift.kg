@@ -58,7 +58,7 @@ export const products = [
         { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
 
 
-        { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
+        { name: "Зебра", count: "1 шт.", image: "/images/candies/sticker-zebra.webp" },
         { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
         { name: "Конфеты с цельным фундуком OZera", count: "1 шт.", image: "/images/candies/sticker-ozero.webp" },
 
