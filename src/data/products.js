@@ -221,10 +221,15 @@ export const products = [
          { name: "М&Мs", count: "1 шт.", image: "/images/candies/sticker-mm.webp" },  
                  { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/sticker-chx.webp" },
          { name: "Аленка бисквит", count: "2 шт.", image: "/images/candies/sticker-bis.webp" },
-
-
-
-        
+        { name: "Коровка Шоколад", count: "1 шт.", image: "/images/candies/sticker-kors.webp" },
+         { name: "Киндер Maxi", count: "1 шт.", image: "/images/candies/sticker-asss.webp" },
+         { name: "ДЖУМКА", count: "1 шт.", image: "/images/candies/jumka.webp" },
+         { name: "Зебра", count: "1 шт.", image: "/images/candies/sticker-zebra.webp" },
+          { name: "Бонди мини", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
+         { name: "Киндер сюрприз", count: "1 шт.", image: "/images/candies/sticker-surp.webp" },
+          { name: "TIC-TAC", count: "1 шт.", image: "/images/candies/sticker-tic.webp" },
+         { name: "Озера плиточный", count: "1 шт.", image: "/images/candies/sticker-extra.webp" },
+        { name: "Oreo mini", count: "1 шт.", image: "/images/candies/sticker-or.webp" },
         
     ],
   },
