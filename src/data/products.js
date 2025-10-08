@@ -337,6 +337,12 @@ export const products = [
          { name: "Киндер сюрприз", count: "1 шт.", image: "/images/candies/sticker-surp.webp" },
                  { name: "Mentos", count: "1 шт.", image: "/images/candies/sticker-men.webp"},
          { name: "TIC-TAC", count: "1 шт.", image: "/images/candies/sticker-tic.webp" },
+             { name: "Сладкая вата", count: "1 шт.", image: "/images/candies/bub-gum.webp" },
+         { name: "Шоколад Alpen Gold", count: "1 шт.", image: "/images/candies/sticker-alp.webp" },
+                 { name: "Bueno", count: "1 шт.", image: "/images/candies/sticker-bueno.webp"},
+         { name: "milka", count: "1 шт.", image: "/images/candies/sticker-milka.webp" },
+
+
 
 
     ],
