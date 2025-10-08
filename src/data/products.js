@@ -311,7 +311,7 @@ export const products = [
     ],
   },
    {
-    title: "ТРИУМФ",
+    title: "Золотая коллекция",
     id: 10,
     image: "/images/baskets/trim.jpg", 
     features: [
@@ -333,6 +333,10 @@ export const products = [
           { name: "KINDER DELICE ", count: "1 шт.", image: "/images/candies/sticker-delice.webp" },  
         { name: "KINDER T4", count: "1 шт.", image: "/images/candies/sticker-kinder4.webp" },
         { name: "CHUPA-CHUPS Мармелад", count: "1 шт.", image: "/images/candies/sticker-rol.webp" },
+         { name: "Барни", count: "1 шт.", image: "/images/candies/sticker-bar.webp" },
+         { name: "Киндер сюрприз", count: "1 шт.", image: "/images/candies/sticker-surp.webp" },
+                 { name: "Mentos", count: "1 шт.", image: "/images/candies/sticker-men.webp"},
+         { name: "TIC-TAC", count: "1 шт.", image: "/images/candies/sticker-tic.webp" },
 
 
     ],
