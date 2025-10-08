@@ -327,6 +327,14 @@ export const products = [
           { name: "М&Мs", count: "1 шт.", image: "/images/candies/sticker-mm.webp" },  
         { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/sticker-chx.webp" },
         { name: "Fruit-tella", count: "1 шт.", image: "/images/candies/fruittela.png" },
+       
+        { name: "MELLER", count: "1 шт.", image: "/images/candies/meller.webp" },
+         { name: "KIT-KAT", count: "1 шт.", image: "/images/candies/sticker-kk.webp" },
+          { name: "KINDER DELICE ", count: "1 шт.", image: "/images/candies/sticker-delice.webp" },  
+        { name: "KINDER T4", count: "1 шт.", image: "/images/candies/sticker-kinder4.webp" },
+        { name: "CHUPA-CHUPS Мармелад", count: "1 шт.", image: "/images/candies/sticker-rol.webp" },
+
+
     ],
   },
   
