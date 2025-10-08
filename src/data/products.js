@@ -196,7 +196,7 @@ export const products = [
     ],
   },
   {
-    title: "ЧУДО ПОДАРОК",
+    title: "Зайчик",
     id: 7,
     image: "/images/baskets/chudo.jpg", 
     features: [
@@ -207,8 +207,25 @@ export const products = [
     ],
     price: 850,
     contents: [
-     
-     
+     { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
+         { name: "Коровка", count: "1 шт.", image: "/images/candies/korovka.webp" },
+         { name: "Snickers minis", count: "1 шт.", image: "/images/candies/sticker-snickers.webp" },
+         { name: "Любимый Яблоко 0,2л", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
+         { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
+          { name: "Мишка", count: "1 шт.", image: "/images/candies/mishkakos.webp" },
+             { name: "Конфеты шоколадные Аленка", count: "1 шт.", image: "/images/candies/alenka-mini.jpg" },
+         { name: "Кара кум", count: "1 шт.", image: "/images/candies/sticker-kara.webp" },
+         { name: "Птичье молоко ", count: "1 шт.", image: "/images/candies/sticker-mol.webp" },
+         { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
+          { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
+         { name: "М&Мs", count: "1 шт.", image: "/images/candies/sticker-mm.webp" },  
+                 { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/sticker-chx.webp" },
+         { name: "Аленка бисквит", count: "2 шт.", image: "/images/candies/sticker-bis.webp" },
+
+
+
+        
+        
     ],
   },
   {
