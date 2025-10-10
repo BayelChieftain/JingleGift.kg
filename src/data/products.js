@@ -307,7 +307,7 @@ export const products = [
          { name: "Озера", count: "1 шт.", image: "/images/candies/sticker-o.webp" },
           { name: "Коровка", count: "1 шт.", image: "/images/candies/korovka.webp" },
            { name: "TIC-TAC", count: "1 шт.", image: "/images/candies/sticker-tic.webp" },
-          { name: "Alpen Gold", count: "1 шт.", image: "/images/candies/alpen-gold.png" },
+          { name: "Шоколад Alpen Gold", count: "1 шт.", image: "/images/candies/sticker-alp.webp" },
     ],
   },
    {
