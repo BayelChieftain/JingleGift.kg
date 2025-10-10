@@ -65,7 +65,7 @@ export default function Contacts() {
       </motion.p>
 
       <motion.a
-        href="https://jingle-gift-kg.vercel.app/"
+        href="https://jingle-gift-kg-v2.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="block mt-3 text-2xl font-extrabold text-white hover:text-yellow-400 transition"
@@ -73,7 +73,7 @@ export default function Contacts() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.8, delay: 1 }}
       >
-        jingle-gift-kg.vercel.app
+        jingle-gift-kg-v2.vercel.app
       </motion.a>
     </section>
   );
