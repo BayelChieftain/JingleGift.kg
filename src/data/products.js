@@ -258,7 +258,7 @@ export const products = [
         { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
          { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
         { name: "М&Мs", count: "1 шт.", image: "/images/candies/sticker-mm.webp" },  
-        { name: "Milkyway minis", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
+        { name: "Milkyway mini", count: "2 шт.", image: "/images/candies/sticker-milkMM.webp" },
         { name: "Рулет Яшкино", count: "1 шт.", image: "/images/candies/rulet.png" },
          { name: "Вафли Яшкино", count: "1 шт.", image: "/images/candies/vafly-yash.jpg" },
           { name: "Птичье молоко ", count: "1 шт.", image: "/images/candies/sticker-mol.webp" },
@@ -284,7 +284,7 @@ export const products = [
     ],
     price: 950,
     contents: [
-         { name: "Шоколад Milky Way", count: "1 шт.", image: "/images/candies/sticker-milkMM.webp" },
+         { name: "Шоколад Milky Way", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
         { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
       { name: "Красная Шапочка", count: "1 шт.", image: "/images/candies/sticker-shap.webp" },
      { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
