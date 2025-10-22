@@ -143,7 +143,7 @@ export const products = [
  { name: "Snickers minis", count: "2 шт.", image: "/images/candies/sticker-snickers.webp" },
 { name: "Twix mini", count: "2 шт.", image: "/images/candies/twix.jpg" },
 { name: "Чокопай", count: "1 шт.", image: "/images/candies/choco-pie.webp" },
- { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/chupa-xxl.jpg" },
+ { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/sticker-chx.webp" },
         { name: "Барни", count: "1 шт.", image: "/images/candies/sticker-bar.webp" },
  { name: "Аленка бисквит", count: "1 шт.", image: "/images/candies/sticker-bis.webp" },
 { name: "Бонди", count: "1 шт.", image: "/images/candies/sticker-bondiM.webp" },
