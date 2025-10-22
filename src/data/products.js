@@ -307,7 +307,7 @@ export const products = [
          { name: "Коровка печенье", count: "1 шт.", image: "/images/candies/sticker-korovkaB.webp" },
        { name: "KitKat", count: "1 шт.", image: "/images/candies/kitkat.jpg" },
          { name: "Чупа чупс XXL", count: "1 шт.", image: "/images/candies/sticker-chx.webp" },
-         { name: "Киндер сюрприз", count: "1 шт.", image: "/images/candies/sticker-surp.webp" },
+          { name: "Яшкино вафли", count: "1 шт.", image: "/images/candies/sticker-vaf.webp" },
         { name: "Озера плиточный", count: "1 шт.", image: "/images/candies/sticker-extra.webp" },
          { name: "Сок 200 мл", count: "1 шт.", image: "/images/candies/sticker-250ml.webp" },
          { name: "Озера", count: "1 шт.", image: "/images/candies/sticker-o.webp" },
