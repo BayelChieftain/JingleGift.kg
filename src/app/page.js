@@ -20,7 +20,7 @@ export default function Home() {
       <Header />
       {/* Hero */}
       <section className="flex flex-col items-center justify-center py-16 px-4 text-center">
-        <img src="/images/photo_2025-10-22_19-32-59-removebg-preview.png" alt="Logo" className="w-66 h-60 mb-4" />
+        <img src="/images/latest_logo_gf.PNG" alt="Logo" className="w-66 h-66 mb-4" />
         <h1 className="text-4xl font-bold text-red-600">
           Магазин сладостей
         </h1>
