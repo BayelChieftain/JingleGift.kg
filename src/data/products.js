@@ -39,7 +39,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 450,
+    price: 550,
     contents: [
       { name: "Milkyway", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
       { name: "Бат. Чио-рио", count: "1 шт.", image: "/images/candies/baton-chio.png" },
@@ -72,7 +72,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 600,
+    price: 700,
     contents: [
       { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
     { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
@@ -103,7 +103,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 650,
+    price: 750,
     contents: [
          { name: "Snickers", count: "1 шт.", image: "/images/candies/snickers.jpg" },
     { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
@@ -136,7 +136,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 800,
+    price: 900,
     contents: [
       
       { name: "Киндер Maxi", count: "1 шт.", image: "/images/candies/sticker-asss.webp" },
@@ -170,7 +170,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 850,
+    price: 950,
     contents: [
      { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
            { name: "Skittles", count: "1 шт.", image: "/images/candies/sticker-skitl.webp" },
@@ -206,7 +206,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 900,
+    price: 1000,
     contents: [
      { name: "Бабаевская", count: "1 шт.", image: "/images/candies/sticker-babskiM.webp" },
          { name: "Коровка", count: "1 шт.", image: "/images/candies/korovka.webp" },
@@ -245,7 +245,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 950,
+    price: 1050,
     contents: [
          { name: "Конфеты шоколадные Аленка", count: "1 шт.", image: "/images/candies/alenka-mini.jpg" },
          { name: "Мишка", count: "1 шт.", image: "/images/candies/mishkakos.webp" },
@@ -283,7 +283,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 1400,
+    price: 1500,
     contents: [
          { name: "Шоколад Milky Way", count: "1 шт.", image: "/images/candies/sticker-milky.webp" },
         { name: "Babyfox", count: "1 шт.", image: "/images/candies/babyfox.png" },
@@ -327,7 +327,7 @@ export const products = [
       "Без карамели",
       "Упаковка входит в стоимость",
     ],
-    price: 1500,
+    price: 1600,
     contents: [
        { name: "Twix", count: "1 шт.", image: "/images/candies/sticker-twix.webp" },
          { name: "Bounty", count: "1 шт.", image: "/images/candies/bounty.jpg" },
